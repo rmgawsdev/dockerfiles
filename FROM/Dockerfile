@@ -1,1 +1,1 @@
-From alamalinux:9
+From almalinux:9
